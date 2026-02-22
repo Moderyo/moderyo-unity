@@ -1,0 +1,52 @@
+{
+  "name": "com.moderyo.sdk",
+  "version": "2.0.7",
+  "displayName": "Moderyo SDK",
+  "description": "Official Unity SDK for Moderyo Content Moderation API. AI-powered content moderation for games.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://docs.moderyo.com/sdk/unity",
+  "changelogUrl": "https://github.com/moderyo/moderyo-unity/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/moderyo/moderyo-unity/blob/main/LICENSE",
+  "keywords": [
+    "moderation",
+    "content-moderation",
+    "chat",
+    "safety",
+    "trust-safety",
+    "ai",
+    "gaming"
+  ],
+  "author": {
+    "name": "Moderyo",
+    "email": "support@moderyo.com",
+    "url": "https://moderyo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moderyo/moderyo-unity.git"
+  },
+  "dependencies": {},
+  "samples": [
+    {
+      "displayName": "Basic Chat",
+      "description": "Basic async chat moderation example",
+      "path": "Samples~/BasicChat"
+    },
+    {
+      "displayName": "Chat Filter Component",
+      "description": "UI-integrated chat filter component example",
+      "path": "Samples~/ChatFilterComponent"
+    },
+    {
+      "displayName": "Full Playground",
+      "description": "Complete SDK feature playground",
+      "path": "Samples~/FullPlayground"
+    },
+    {
+      "displayName": "Coroutine Chat",
+      "description": "Coroutine-based chat moderation example",
+      "path": "Samples~/CoroutineChat"
+    }
+  ]
+}
