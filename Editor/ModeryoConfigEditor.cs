@@ -138,7 +138,7 @@ namespace Moderyo.Editor
 
             if (GUILayout.Button("Documentation", GUILayout.Height(25)))
             {
-                Application.OpenURL("https://docs.moderyo.com/unity");
+                Application.OpenURL("https://docs.moderyo.com/sdk/unity");
             }
 
             EditorGUILayout.EndHorizontal();

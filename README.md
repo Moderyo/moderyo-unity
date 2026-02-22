@@ -21,11 +21,11 @@ Official Unity client library for the Moderyo Content Moderation API — v2.0.7.
 
 1. Open Window > Package Manager
 2. Click "+" > "Add package from git URL"
-3. Enter: `https://github.com/moderyo/moderyo-unity.git`
+3. Enter: `https://github.com/Moderyo/moderyo-unity.git`
 
 ### Via .unitypackage
 
-Download the latest `.unitypackage` from [Releases](https://github.com/moderyo/moderyo-unity/releases)
+Download the latest `.unitypackage` from [Releases](https://github.com/Moderyo/moderyo-unity/releases)
 
 ### Manual Installation
 
@@ -389,6 +389,12 @@ The `ChatFilter` component shows real-time moderation results in the Inspector d
 - Unity 2021.3 LTS or newer
 - .NET Standard 2.1 or .NET 4.x
 - (Optional) UniTask for async/await
+
+## Links
+
+- **Documentation:** [docs.moderyo.com/sdk/unity](https://docs.moderyo.com/sdk/unity)
+- **GitHub:** [github.com/Moderyo/moderyo-unity](https://github.com/Moderyo/moderyo-unity)
+- **Website:** [moderyo.com](https://moderyo.com)
 
 ## License
 
